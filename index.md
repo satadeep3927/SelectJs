@@ -56,6 +56,6 @@ Result
 ![Result Image](https://user-images.githubusercontent.com/63926708/151357140-68b39291-2b76-4b8a-a62b-f3f064ea4703.png)
 
 #### Library is still under developemnet. Please don't hesitate to report a bug. Contributers are always welcome.
-Github Repo : https://github.com/satadeep3927/SelectJs
-JSDeliver CDN : https://cdn.jsdelivr.net/gh/satadeep3927/SelectJs/select.min.js
+##### Github Repo : https://github.com/satadeep3927/SelectJs
+##### JSDeliver CDN : https://cdn.jsdelivr.net/gh/satadeep3927/SelectJs/select.min.js
 
