@@ -1,12 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to SelectJs
 
-You can use the [editor on GitHub](https://github.com/satadeep3927/SelectJs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**SelectJs** is a minimalistic and light-weight Javascript library to create your own, awesome select Element
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can clone Standalone Javascript file from Github or use JSDeliver CDN Link.
 
-### Markdown
+### Documantation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is short and Easy Tutorial On SelectJs
+
+```markdown
+...
+<!-- HTML Code -->
+
+<select class="custom-select">
+    <option value="C++">C++</option>
+    <option value="Java">Java</option>
+    <option value="Python">Python</option>
+    <option value="C#">C#</option>
+    <option value="JavaScript">JavaScript</option>
+    <option value="Go">Go</option>
+</select>
+
+...
+```
+JavaScript Code
+
+```markdown
+...
+//app.js
+
+//initiating Select Element with DOM Selector
+
+const select = new Select('.select').init();
+
+...
+```
 
 ```markdown
 Syntax highlighted code block
